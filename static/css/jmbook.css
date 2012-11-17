@@ -1,0 +1,61 @@
+body {
+	padding: 24px;
+	font-family: "NanumGothic", "NanumGothicWeb", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 100%;
+}
+
+.container-fluid {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 1000px;
+}
+
+a {
+	color: #005580;
+}
+
+.nav li a {
+	padding: 6px 15px;
+}
+
+/* sidebar */
+
+.sidebar {
+	padding: 9px 0;
+}
+
+/* .sidebar section.title p.tagline { */
+/* 	font-size: 1.2em; */
+/* } */
+/* .sidebar section.title p.title { */
+/* 	font-size: 2.0em; */
+/* } */
+
+/* title */
+
+section.title {
+	font-family: "NanumMyeongjo", "NanumMyeongjoWeb", serif;
+	padding: 16px;
+}
+
+section.title p.tagline {
+	color: #888;
+	font-size: 0.8em;
+}
+
+section.title p.title {
+	font-size: 2em;
+	letter-spacing: -0.1em;
+	line-height: 1em;
+}
+
+/* covers */
+
+.content img.cover {
+	border: 1px solid gray;
+	margin-right: 16px;
+}
+
+.content h2, .content h3, .content h4 {
+	border-bottom: 1px solid #aaa;
+}
