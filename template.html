@@ -46,32 +46,21 @@
 					</section>
 					<section>
 						<ul class="nav nav-list">
-							<li><a href="#"><i class="icon-info-sign"></i> 책소개</a></li>
-							<li><a href="#"><i class="icon-book"></i> 목차보기</a></li>
-							<li><a href="#"><i class="icon-question-sign"></i> 연습문제</a></li>
-							<li><a href="#"><i class="icon-cog"></i> 소스코드</a></li>
-							<li><a href="#"><i class="icon-ok"></i> 정오표</a></li>
-							<li><a href="#"><i class="icon-shopping-cart"></i> 구입하기</a></li>
+							{% for item in MENU %}
+							<li><a href="{{ item['file'] }}.html"><i class="{{ item['icon'] }}"></i> {{ item['name'] }}</a></li>
+							{% endfor %}
+							<!-- <li><a href="#"><i class="icon-info-sign"></i> 책소개</a></li> -->
+							<!-- <li><a href="#"><i class="icon-book"></i> 목차보기</a></li> -->
+							<!-- <li><a href="#"><i class="icon-question-sign"></i> 연습문제</a></li> -->
+							<!-- <li><a href="#"><i class="icon-cog"></i> 소스코드</a></li> -->
+							<!-- <li><a href="#"><i class="icon-ok"></i> 정오표</a></li> -->
+							<!-- <li><a href="#"><i class="icon-shopping-cart"></i> 구입하기</a></li> -->
 						</ul>
 					</section>
 				</div>
 			</div>
 			<div class="span9 content">
-				<p>
-					<img src="/static/img/cover1-small.png" class="cover">
-					<img src="/static/img/cover2-small.png" class="cover">
-				</p>
-				<p>
-					프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략, 구종만 지음, 인사이트, ISBN 978-89-6626-054-6
-				</p>
-
-				<h3>책 소개</h3>
-				<p>
-				</p>
-
-				<h3>글쓴이 소개</h3>
-				<p>
-				</p>
+				{{ content }}
 			</div>
 		</div>
 
