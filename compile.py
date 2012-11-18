@@ -27,7 +27,8 @@ def compile_page(source, dest):
 
 def main():
 
-    rmtree('output')
+    if path.exists('output'): 
+        rmtree('output')
     makedirs('output')
 
     for source in glob('pages/*.md'): 

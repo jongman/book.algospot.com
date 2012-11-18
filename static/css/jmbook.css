@@ -71,3 +71,7 @@ section.title p.title {
 .content ul p {
 	margin: 0;
 }
+
+.content pre code {
+	font-size: 1.2em;
+}
