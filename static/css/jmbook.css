@@ -1,6 +1,6 @@
 body {
 	padding: 24px;
-	font-family: "NanumGothic", "NanumGothicWeb", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "NanumGothic", "MalgunGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 100%;
 	line-height: 160%;
 }
@@ -40,7 +40,7 @@ a {
 /* title */
 
 section.title {
-	font-family: "NanumMyeongjo", "NanumMyeongjoWeb", serif;
+	font-family: "NanumMyeongjo", "Batang", serif;
 	padding: 16px;
 }
 
