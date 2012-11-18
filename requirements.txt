@@ -1,0 +1,4 @@
+Jinja2==2.6
+Markdown==2.2.1
+argparse==1.2.1
+wsgiref==0.1.2
