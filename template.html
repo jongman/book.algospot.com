@@ -41,20 +41,14 @@
 				<div class="sidebar well">
 					<section class="title">
 						<p class="tagline">프로그래밍 대회에서 배우는</p>
-						<p class="title">알고리즘 <br/>
-						문제 해결 전략</p>
+						<p class="title"><a href="index.html">알고리즘 <br/>
+								문제 해결 전략</a></p>
 					</section>
 					<section>
 						<ul class="nav nav-list">
 							{% for item in MENU %}
 							<li><a href="{{ item['file'] }}.html"><i class="{{ item['icon'] }}"></i> {{ item['name'] }}</a></li>
 							{% endfor %}
-							<!-- <li><a href="#"><i class="icon-info-sign"></i> 책소개</a></li> -->
-							<!-- <li><a href="#"><i class="icon-book"></i> 목차보기</a></li> -->
-							<!-- <li><a href="#"><i class="icon-question-sign"></i> 연습문제</a></li> -->
-							<!-- <li><a href="#"><i class="icon-cog"></i> 소스코드</a></li> -->
-							<!-- <li><a href="#"><i class="icon-ok"></i> 정오표</a></li> -->
-							<!-- <li><a href="#"><i class="icon-shopping-cart"></i> 구입하기</a></li> -->
 						</ul>
 					</section>
 				</div>
@@ -75,19 +69,8 @@
 	<!-- Le javascript
 	================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
-	<script src="/static/js/jquery.js"></script>
-	<script src="/static/js/bootstrap-transition.js"></script>
-	<script src="/static/js/bootstrap-alert.js"></script>
-	<script src="/static/js/bootstrap-modal.js"></script>
-	<script src="/static/js/bootstrap-dropdown.js"></script>
-	<script src="/static/js/bootstrap-scrollspy.js"></script>
-	<script src="/static/js/bootstrap-tab.js"></script>
-	<script src="/static/js/bootstrap-tooltip.js"></script>
-	<script src="/static/js/bootstrap-popover.js"></script>
-	<script src="/static/js/bootstrap-button.js"></script>
-	<script src="/static/js/bootstrap-collapse.js"></script>
-	<script src="/static/js/bootstrap-carousel.js"></script>
-	<script src="/static/js/bootstrap-typeahead.js"></script>
-
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="/static/js/jmbook.js"></script>
+	<script src="/static/js/bootstrap.js"></script>
 </body>
 </html>

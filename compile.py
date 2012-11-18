@@ -16,12 +16,12 @@ MENU = [
 ]
 
 template = Template(open('template.html', encoding='utf-8').read())
-md = markdown.Markdown()
+# md = markdown.Markdown()
 
 def compile_page(source, dest):
     s = open(source, encoding='utf-8') 
     d = open(dest, 'w', encoding='utf-8')
-    compiled = md.convert(s.read())
+    compiled = markdown.markdown(s.read(), ['footnotes', 'tables'])
     d.write(template.render(MENU=MENU, content=compiled))
     print 'generated', dest
 

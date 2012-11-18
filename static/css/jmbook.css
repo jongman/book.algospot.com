@@ -67,3 +67,7 @@ section.title p.title {
 	margin-top: 32px;
 	margin-bottom: 16px;
 }
+
+.content ul p {
+	margin: 0;
+}
