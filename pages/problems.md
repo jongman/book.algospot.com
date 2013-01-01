@@ -97,3 +97,4 @@
 32장   |도난당한 조각상			|준비중입니다
 32장   |승부 조작				|준비중입니다
 32장   |국책 사업				|준비중입니다
+32장   |함정 설치				|[TRAPCARD](http://algospot.com/judge/problem/read/TRAPCARD)
