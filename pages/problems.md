@@ -9,8 +9,7 @@
 6장    |소풍					|[PICNIC](http://algospot.com/judge/problem/read/PICNIC)
 6장    |게임판 덮기				|[BOARDCOVER](http://algospot.com/judge/problem/read/BOARDCOVER)
 6장    |시계 맞추기				|[CLOCKSYNC](http://algospot.com/judge/problem/read/CLOCKSYNC)
-6장    |시계 맞추기				|[CLOCKSYNC](http://algospot.com/judge/problem/read/CLOCKSYNC)
-7장    |쿼드 트리 뒤집기		|준비중입니다
+7장    |쿼드 트리 뒤집기		|[QUADTREE](http://algospot.com/judge/problem/read/QUADTREE)
 7장    |울타리 잘라내기			|준비중입니다
 7장    |팬 미팅					|준비중입니다
 8장    |외발뛰기				|준비중입니다
