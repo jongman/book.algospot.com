@@ -5,7 +5,7 @@
 장 번호|문제 이름           	|링크
 -------|------------------------|-----------------------------------------------------------
 1장    |록 페스티벌				|[FESTIVAL](http://algospot.com/judge/problem/read/FESTIVAL)
-6장    |보글 게임				|준비중입니다
+6장    |보글 게임				|[BOGGLE](http://algospot.com/judge/problem/read/BOGGLE)
 6장    |소풍					|[PICNIC](http://algospot.com/judge/problem/read/PICNIC)
 6장    |게임판 덮기				|[BOARDCOVER](http://algospot.com/judge/problem/read/BOARDCOVER)
 6장    |시계 맞추기				|[CLOCKSYNC](http://algospot.com/judge/problem/read/CLOCKSYNC)
