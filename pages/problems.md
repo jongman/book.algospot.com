@@ -12,7 +12,7 @@
 7장    |쿼드 트리 뒤집기		|[QUADTREE](http://algospot.com/judge/problem/read/QUADTREE)
 7장    |울타리 잘라내기			|[FENCE](http://algospot.com/judge/problem/read/FENCE)
 7장    |팬 미팅					|준비중입니다
-8장    |외발뛰기				|준비중입니다
+8장    |외발뛰기				|[JUMPGAME](http://algospot.com/judge/problem/read/JUMPGAME)
 8장    |와일드카드				|[WILDCARD](http://algospot.com/judge/problem/read/WILDCARD)
 8장    |삼각형 위의 최대 경로	|준비중입니다
 8장    |최대 부분 증가 수열		|[LIS](http://algospot.com/judge/problem/read/LIS)
