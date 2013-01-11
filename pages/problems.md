@@ -14,7 +14,7 @@
 7장    |팬 미팅					|준비중입니다
 8장    |외발뛰기				|[JUMPGAME](http://algospot.com/judge/problem/read/JUMPGAME)
 8장    |와일드카드				|[WILDCARD](http://algospot.com/judge/problem/read/WILDCARD)
-8장    |삼각형 위의 최대 경로	|준비중입니다
+8장    |삼각형 위의 최대 경로	|[TRIANGLEPATH](http://algospot.com/judge/problem/read/TRIANGLEPATH)
 8장    |최대 부분 증가 수열		|[LIS](http://algospot.com/judge/problem/read/LIS)
 8장    |합친 LIS				|[JLIS](http://algospot.com/judge/problem/read/JLIS)
 8장    |원주율 외우기			|[PI](http://algospot.com/judge/problem/read/PI)
