@@ -11,7 +11,7 @@
 6장    |시계 맞추기				|[CLOCKSYNC](http://algospot.com/judge/problem/read/CLOCKSYNC)
 7장    |쿼드 트리 뒤집기		|[QUADTREE](http://algospot.com/judge/problem/read/QUADTREE)
 7장    |울타리 잘라내기			|[FENCE](http://algospot.com/judge/problem/read/FENCE)
-7장    |팬 미팅					|준비중입니다
+7장    |팬 미팅					|[FANMEETING](http://algospot.com/judge/problem/read/FANMEETING)
 8장    |외발뛰기				|[JUMPGAME](http://algospot.com/judge/problem/read/JUMPGAME)
 8장    |와일드카드				|[WILDCARD](http://algospot.com/judge/problem/read/WILDCARD)
 8장    |삼각형 위의 최대 경로	|[TRIANGLEPATH](http://algospot.com/judge/problem/read/TRIANGLEPATH)
