@@ -19,7 +19,7 @@
 8장    |합친 LIS				|[JLIS](http://algospot.com/judge/problem/read/JLIS)
 8장    |원주율 외우기			|[PI](http://algospot.com/judge/problem/read/PI)
 8장    |Quantization			|[QUANTIZE](http://algospot.com/judge/problem/read/QUANTIZE)
-8장    |타일링 방법의 수 세기	|준비중입니다
+8장    |타일링 방법의 수 세기	|[TILING2](http://algospot.com/judge/problem/read/TILING2)
 8장    |삼각형 위의 최대 경로 수 세기 |준비중입니다
 8장    |달팽이					|[SNAIL](http://algospot.com/judge/problem/read/SNAIL)
 8장    |비대칭 타일링			|[ASYMTILING](http://algospot.com/judge/problem/read/ASYMTILING)
