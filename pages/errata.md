@@ -18,6 +18,8 @@
 8.14    |265    |폴리오미노(POLY) 문제에서 경우의 수를 1천만이 아니라 20090711로 나눈 수를 출력합니다.
 9.6		|295	|소제목 "모든 신호 만들기" => "k-1개 건너뛰기"		
 10.7	|391	|그림 10.6(b)에서 ${r}\atop{2}$ => $\frac{r}{2}$	
+11.8    |440    |코드 11.12의 `int l = setSize(set), s = setSum(set);`에서 각각 `getSize()`, `getSum()`이 맞습니다. (제보자: zzapcoder)
+15.5    |539    |코드 15.8의 `reflect()`에는 `here` 입력이 필요 없습니다. (제보자: zzapcoder)
 20.5    |666    |코드 20.9의 `Comparator` 클래스 생성자를 `Comparator(const vector<int>& _group, int _t): group(_group), t(_t) {}`로 변경해야 컴파일됩니다. (제보자: 이도경)
 32.2	|996	|코드 32.1의 너비 우선 탐색에서 `while(!q.empty())` 대신 `while(!q.empty() && parent[sink] == -1)`을 사용하면 훨씬 빨라집니다. (제보자: 이태윤)
 
