@@ -27,7 +27,7 @@
 8장    |두니발 박사의 탈옥		|[NUMB3RS](http://algospot.com/judge/problem/read/NUMB3RS) 
 9장    |여행 짐 싸기			|[PACKING](http://algospot.com/judge/problem/read/PACKING) 
 9장    |광학 문자 인식			|[OCR](http://algospot.com/judge/problem/read/OCR) 
-9장    |모스 부호 사전 			|준비중입니다
+9장    |모스 부호 사전 			|[MORSE](http://algospot.com/judge/problem/read/MORSE)
 9장    |k번째 최대 증가 부분 수열|[KLIS](http://algospot.com/judge/problem/read/KLIS) 
 9장    |드래곤 커브				|[DRAGON](http://algospot.com/judge/problem/read/DRAGON) 
 9장    |웨브바짐				|[ZIMBABWE](http://algospot.com/judge/problem/read/ZIMBABWE) 
