@@ -31,7 +31,7 @@
 9장    |k번째 최대 증가 부분 수열|[KLIS](http://algospot.com/judge/problem/read/KLIS) 
 9장    |드래곤 커브				|[DRAGON](http://algospot.com/judge/problem/read/DRAGON) 
 9장    |웨브바짐				|[ZIMBABWE](http://algospot.com/judge/problem/read/ZIMBABWE) 
-9장    |실험 데이터 복구하기	|준비중입니다
+9장    |실험 데이터 복구하기	|[RESTORE](http://algospot.com/judge/problem/read/RESTORE) 
 9장    |틱택토					|준비중입니다
 9장    |숫자 게임				|[NUMBERGAME](http://algospot.com/judge/problem/read/NUMBERGAME)
 9장    |블록 게임				|준비중입니다
