@@ -34,7 +34,7 @@
 9장    |실험 데이터 복구하기	|[RESTORE](http://algospot.com/judge/problem/read/RESTORE) 
 9장    |틱택토					|[TICTACTOE](http://algospot.com/judge/problem/read/TICTACTOE) 
 9장    |숫자 게임				|[NUMBERGAME](http://algospot.com/judge/problem/read/NUMBERGAME)
-9장    |블록 게임				|준비중입니다
+9장    |블록 게임				|[BLOCKGAME](http://algospot.com/judge/problem/read/BLOCKGAME)
 9장    |회전초밥				|[SUSHI](http://algospot.com/judge/problem/read/SUSHI) 
 9장    |지니어스				|[GENIUS](http://algospot.com/judge/problem/read/GENIUS) 
 10장   |출전 순서 정하기		|준비중입니다
