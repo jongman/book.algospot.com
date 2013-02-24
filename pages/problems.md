@@ -41,7 +41,7 @@
 10장   |도시락 데우기			|[LUNCHBOX](http://algospot.com/judge/problem/read/LUNCHBOX)
 10장   |문자열 합치기			|[STRJOIN](http://algospot.com/judge/problem/read/STRJOIN)
 10장   |미나스 아노르			|[MINASTIRITH](http://algospot.com/judge/problem/read/MINASTIRITH)
-11장   |게임판 덮기 2			|준비중입니다
+11장   |게임판 덮기 2			|[BOARDCOVER2](http://algospot.com/judge/problem/read/BOARDCOVER2)
 11장   |알러지가 심한 친구들	|[ALLERGY](http://algospot.com/judge/problem/read/ALLERGY)
 11장   |카쿠로					|[KAKURO2](http://algospot.com/judge/problem/read/KAKURO2)
 12장   |DARPA Grand Challenge   |[DARPA](http://algospot.com/judge/problem/read/DARPA)
