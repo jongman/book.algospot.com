@@ -59,7 +59,7 @@
 15장   |너드인가, 너드가 아닌가?|[NERDS](http://algospot.com/judge/problem/read/NERDS)
 16장   |졸업 학기				|준비중입니다
 17장   |크리스마스 인형			|[CHRISTMAS](http://algospot.com/judge/problem/read/CHRISTMAS)
-18장   |조세푸스 문제			|준비중입니다
+18장   |조세푸스 문제			|[JOSEPHUS](http://algospot.com/judge/problem/read/JOSEPHUS)
 19장   |짝이 맞지 않는 괄호		|[BRACKETS2](http://algospot.com/judge/problem/read/BRACKETS2)
 19장   |외계 신호 분석			|[ITES](http://algospot.com/judge/problem/read/ITES)
 20장   |작명하기				|[NAMING](http://algospot.com/judge/problem/read/NAMING)
