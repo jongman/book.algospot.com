@@ -63,7 +63,7 @@
 19장   |짝이 맞지 않는 괄호		|[BRACKETS2](http://algospot.com/judge/problem/read/BRACKETS2)
 19장   |외계 신호 분석			|[ITES](http://algospot.com/judge/problem/read/ITES)
 20장   |작명하기				|[NAMING](http://algospot.com/judge/problem/read/NAMING)
-20장   |팰린드롬 만들기			|준비중입니다
+20장   |팰린드롬 만들기			|[PALINDROMIZE](http://algospot.com/judge/problem/read/PALINDROMIZE)
 20장   |재하의 금고				|[JAEHASAFE](http://algospot.com/judge/problem/read/JAEHASAFE)
 20장   |말버릇					|[HABIT](http://algospot.com/judge/problem/read/HABIT)
 21장   |트리 순회 순서 변경		|준비중입니다
