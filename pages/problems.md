@@ -74,7 +74,7 @@
 24장   |등산로					|[MORDOR](http://algospot.com/judge/problem/read/MORDOR)
 24장   |족보 탐험				|[FAMILYTREE](http://algospot.com/judge/problem/read/FAMILYTREE)
 24장   |삽입 정렬 시간 재기		|[MEASURETIME](http://algospot.com/judge/problem/read/MEASURETIME)
-25장   |에디터 전쟁				|준비중입니다
+25장   |에디터 전쟁				|[EDITORWARS](http://algospot.com/judge/problem/read/EDITORWARS)
 26장   |안녕히, 그리고 물고기는 고마웠어요!|[SOLONG](http://algospot.com/judge/problem/read/SOLONG)
 26장   |보안종결자				|[NH](http://algospot.com/judge/problem/read/NH)
 28장   |고대어 사전				|[DICTIONARY](http://algospot.com/judge/problem/read/DICTIONARY)
