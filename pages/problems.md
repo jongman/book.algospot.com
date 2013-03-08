@@ -66,7 +66,7 @@
 20장   |팰린드롬 만들기			|[PALINDROMIZE](http://algospot.com/judge/problem/read/PALINDROMIZE)
 20장   |재하의 금고				|[JAEHASAFE](http://algospot.com/judge/problem/read/JAEHASAFE)
 20장   |말버릇					|[HABIT](http://algospot.com/judge/problem/read/HABIT)
-21장   |트리 순회 순서 변경		|준비중입니다
+21장   |트리 순회 순서 변경		|[TRAVERSAL](http://algospot.com/judge/problem/read/TRAVERSAL)
 21장   |요새					|[FORTRESS](http://algospot.com/judge/problem/read/FORTRESS)
 22장   |너드인가, 너드가 아닌가? 2|[NERD2](http://algospot.com/judge/problem/read/NERD2)
 22장   |삽입 정렬 뒤집기		|[INSERTION](http://algospot.com/judge/problem/read/INSERTION)
