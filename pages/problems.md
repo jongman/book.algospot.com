@@ -23,7 +23,7 @@
 8장    |삼각형 위의 최대 경로 수 세기 |[TRIPATHCNT](http://algospot.com/judge/problem/read/TRIPATHCNT)
 8장    |달팽이					|[SNAIL](http://algospot.com/judge/problem/read/SNAIL)
 8장    |비대칭 타일링			|[ASYMTILING](http://algospot.com/judge/problem/read/ASYMTILING)
-8장    |폴리오미노				|준비중입니다
+8장    |폴리오미노				|[POLY](http://algospot.com/judge/problem/read/POLY)
 8장    |두니발 박사의 탈옥		|[NUMB3RS](http://algospot.com/judge/problem/read/NUMB3RS) 
 9장    |여행 짐 싸기			|[PACKING](http://algospot.com/judge/problem/read/PACKING) 
 9장    |광학 문자 인식			|[OCR](http://algospot.com/judge/problem/read/OCR) 
