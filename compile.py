@@ -11,6 +11,7 @@ MENU = [
     {'file': 'index', 'icon': 'icon-info-sign', 'name': u'책 소개'},
     {'file': 'peek', 'icon': 'icon-book', 'name': u'미리 보기'},
     {'file': 'problems', 'icon': 'icon-question-sign', 'name': u'연습 문제'},
+    {'file': 'src', 'icon': 'icon-list-alt', 'name': u'소스 코드'},
     {'file': 'errata', 'icon': 'icon-ok', 'name': u'정오표'},
     {'file': 'buy', 'icon': 'icon-shopping-cart', 'name': u'구입하기'},
 ]
