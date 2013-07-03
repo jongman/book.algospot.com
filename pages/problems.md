@@ -89,7 +89,7 @@
 30장   |철인 N종 경기			|[NTHLON](http://algospot.com/judge/problem/read/NTHLON)
 30장   |시간여행				|[TIMETRIP](http://algospot.com/judge/problem/read/TIMETRIP)
 30장   |음주 운전 단속			|[DRUNKEN](http://algospot.com/judge/problem/read/DRUNKEN)
-30장   |선거 공약				|준비중입니다
+30장   |선거 공약				|[PROMISES](http://algospot.com/judge/problem/read/PROMISES)
 31장   |근거리 네트워크			|[LAN](http://algospot.com/judge/problem/read/LAN)
 31장   |여행 경로 정하기		|[TPATH](http://algospot.com/judge/problem/read/TPATH)
 32장   |마일리지로 여행하기		|준비중입니다
