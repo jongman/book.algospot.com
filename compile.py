@@ -28,9 +28,10 @@ def compile_page(source, dest):
 
 def main():
 
-    if path.exists('output'): 
-        rmtree('output')
-    makedirs('output')
+    if not path.exists('output'): 
+        makedirs('output')
+    else:
+        rmtree('output/static')
 
     for source in glob('pages/*.md'): 
         page_name = '.'.join(path.basename(source).split('.')[:-1])
