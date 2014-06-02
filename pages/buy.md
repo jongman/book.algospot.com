@@ -3,7 +3,7 @@
 
 <알고리즘 문제 해결 전략>은 다음의 인터넷 서점들에서 구입하실 수 있습니다.
 
-* [YES24](http://www.yes24.com//Cooperate/Naver/welcomeNaver.aspx?pageNo=1&goodsNo=8006522)
+* [YES24](http://www.yes24.com/24/Goods/8006522?Acode=101)
 * [반디앤루니스](http://www.bandinlunis.com/front/product/detailProduct.do?prodId=3544463)
 * [인터넷 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260546)
 * [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8966260543)
