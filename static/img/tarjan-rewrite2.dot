@@ -1,0 +1,21 @@
+digraph g {
+node[shape=circle,style=filled,fillcolor=white];
+a[label="1"];
+b[label="2"];
+c[label="3"];
+d[label="4"];
+u[label="5"];
+v[label="6"];
+subgraph cluster0 { style=filled; color=lightgrey; a; }
+subgraph cluster1 { style=filled; color=lightgrey; b;c;d; }
+subgraph cluster2 { style=filled; color=lightgrey; u; v; }
+a -> b;
+b -> c;
+b -> d [dir=back];
+c -> d [constraint=false];
+a -> u;
+u -> v;
+v -> u;
+v -> d [constraint=false];
+b -> a [constraint=false,style=invis];
+}
