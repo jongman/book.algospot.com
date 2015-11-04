@@ -4,5 +4,6 @@
 
 * [목차](toc.html)
 * [서문: 프로그래밍은 어렵다](hard.html)
+* [1 문제 해결과 프로그래밍 대회](ch1.html)
 * [2.3 문제 해결 전략](strategies.html)
 * [4.6 수행 시간 어림짐작하기](estimation.html)
