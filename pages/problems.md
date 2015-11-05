@@ -80,7 +80,7 @@
 28장   |고대어 사전				|[DICTIONARY](http://algospot.com/judge/problem/read/DICTIONARY)
 28장   |단어 제한 끝말잇기		|[WORDCHAIN](http://algospot.com/judge/problem/read/WORDCHAIN)
 28장   |감시 카메라 설치		|[GALLERY](http://algospot.com/judge/problem/read/GALLERY)
-28장   |회의실 배정				|준비중입니다
+28장   |회의실 배정				|[MEETINGROOM](http://algospot.com/judge/problem/read/MEETINGROOM)
 29장   |Sorting Game			|[SORTGAME](http://algospot.com/judge/problem/read/SORTGAME)
 29장   |어린이날				|[CHILDRENDAY](http://algospot.com/judge/problem/read/CHILDRENDAY)
 29장   |하노이의 탑				|[HANOI4B](http://algospot.com/judge/problem/read/HANOI4B)
