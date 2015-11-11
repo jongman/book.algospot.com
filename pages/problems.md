@@ -94,6 +94,6 @@
 31장   |여행 경로 정하기		|[TPATH](http://algospot.com/judge/problem/read/TPATH)
 32장   |마일리지로 여행하기		|준비중입니다
 32장   |도난당한 조각상			|준비중입니다
-32장   |승부 조작				|준비중입니다
+32장   |승부 조작				|[MATCHFIX](http://algospot.com/judge/problem/read/MATCHFIX)
 32장   |국책 사업				|준비중입니다
 32장   |함정 설치				|[TRAPCARD](http://algospot.com/judge/problem/read/TRAPCARD)
